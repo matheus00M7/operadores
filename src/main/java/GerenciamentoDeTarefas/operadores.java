@@ -64,7 +64,7 @@ public class operadores {
         if (apelido2.equals("matheusinho") || horasDeJogo > 1000) {
             System.out.println("Você é um jogador dedicado!");
         }else{
-            System.out.println("Você ainda está começando.");
+              System.out.println("Você ainda está começando.");
         }
 
         String apelido3 = "joao";
